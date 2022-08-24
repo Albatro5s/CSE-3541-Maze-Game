@@ -1,7 +1,7 @@
 # CSE-3541-Maze-Game
  Procedurally generated Unity3D Maze Game
 
-Project explores various styles of maze generation (Binary Tree, Kruskal's, Prim's) and creates a navigable maze.
+Project explores various styles of maze generation (BFS, Kruskal's, Prim's) and creates a navigable maze.
 
 Implemented a first-person controller that rotates with mouse or gamepad. 
 
